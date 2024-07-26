@@ -1,4 +1,7 @@
-body {
-  background-image: url("./doodoonut.jpg");
+[data-color-mode="dark"] body {
+  background-image: url("./doodooballs.png");
+}
+[data-color-mode="light"] body {
+  background-image: url("./ballsdoodoo.png");
 }
 
